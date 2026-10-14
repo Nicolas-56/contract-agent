@@ -1,0 +1,30 @@
+[
+  {
+    "id": "C-001",
+    "title": "Website Maintenance Agreement",
+    "parties": ["Northstar Studio", "Maple Works"],
+    "signed_on": "2026-01-15",
+    "text": "Northstar Studio provides website maintenance to Maple Works for twelve months. The monthly fee is 500 fictional credits. Either party may terminate with 30 days of written notice."
+  },
+  {
+    "id": "C-002",
+    "title": "Office Equipment Supply Agreement",
+    "parties": ["Cedar Supply", "Harbor Labs"],
+    "signed_on": "2026-02-10",
+    "text": "Cedar Supply delivers ten desks to Harbor Labs within 14 days. The total price is 3000 fictional credits. Payment is due within 10 days of delivery."
+  },
+  {
+    "id": "C-003",
+    "title": "Mutual Confidentiality Agreement",
+    "parties": ["Maple Works", "Harbor Labs"],
+    "signed_on": "2026-03-05",
+    "text": "Maple Works and Harbor Labs protect confidential project information for two years. Disclosure to third parties requires prior written consent. Public information is excluded."
+  },
+   {
+    "id": "C-004",
+    "title": "Mutual Gupal",
+    "parties": ["Maple Works", "Harbor Labs"],
+    "signed_on": "2026-03-25",
+    "text": " Disclosure to third parties requires prior written consent. Public information is excluded."
+  }
+]
